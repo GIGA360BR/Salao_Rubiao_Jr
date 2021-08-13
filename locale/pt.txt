@@ -1,0 +1,28 @@
+#: locale=pt
+
+## Tour
+
+### Description
+tour.description = Salão Rubião
+
+### Title
+tour.name = Salão Rubião
+
+## Skin
+
+### Label
+label4056.text = Criação: Renato Zerati (17)99633-1971
+label4056_2A2212F2_3E91_762B_41C4_4339730C6DAA.text = Tour Virtual Salão Rubião Jr.
+label4056_2AD3AFCC_3E93_2E7F_41B6_B0F70F04B9EA.text = Corretor: Eládio Jr. (17)99188-8860
+
+## Media
+
+### Title
+panorama_348185CC_3D1F_4493_41B4_AC4CE8559764.label = Portão Salão 1
+panorama_3481A977_3D1F_4C7D_4186_3C7E905DA461.label = Salão Fundos
+panorama_3481BB48_3D1F_4D93_41C4_BD173D572A09.label = Salão 2
+panorama_34822813_3D1F_4BB5_41CB_74C77976FBF0.label = Salao 1
+panorama_34862F5F_3D18_C5AD_41B1_8DC85669C9C1.label = Esquina 1
+panorama_34865D79_3D18_C475_41C2_D076A89B4E6C.label = Portão Esquina
+panorama_34BD014A_3D18_FD97_41CB_06AA8FB1C2ED.label = Esquina Fundos
+panorama_378F07D6_3D18_C4BF_41C8_A82DC63F4D10.label = Esquina 2
